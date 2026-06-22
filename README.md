@@ -2,6 +2,10 @@
 
 An interactive dashboard for analyzing FIFA World Cup tournaments from 1930–2014 using Python, Pandas, Plotly, and Streamlit.
 
+## 🚀 Live Demo
+
+https://fifa-world-cup-dashboard-zund7kbm8vubyfwwmspvhe.streamlit.app
+
 ## 📌 Features
 
 * 📈 Tournament Trends
